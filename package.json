@@ -1,0 +1,18 @@
+{
+  "name": "oshit_example_server",
+  "version": "1.0.0",
+  "description": "тестовый API сервер для ОШИТ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Stepanov A.M.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2"
+  }
+}
