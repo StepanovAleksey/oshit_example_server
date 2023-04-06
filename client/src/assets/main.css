@@ -1,0 +1,13 @@
+body {
+  font-family: (--font-family);
+  height: 100vh;
+  overflow: auto;
+}
+
+.border {
+  border: solid 1px black;
+}
+
+.scroll {
+  overflow: auto;
+}
